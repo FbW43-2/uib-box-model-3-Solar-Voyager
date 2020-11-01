@@ -1,0 +1,31 @@
+.Container {
+  max-width: 1060px;
+  padding: 10px 80px 10px 80px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+aside {
+  float: right;
+  border-left: solid 3px black;
+  max-width: 250px;
+  padding: 10px;
+  margin-left: 20px;
+  background-color: antiquewhite;
+}
+img {
+  width: 295px;
+  height: 180px;
+}
+.Hampi_Images {
+  margin-top: 10px;
+  display: inline-block;
+}
+main {
+  background-color: rgb(241, 179, 98);
+}
+header {
+  background-color: gray;
+}
+body {
+  background-color: rgb(245, 188, 114);
+}
